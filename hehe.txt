@@ -4,4 +4,4 @@ zhangweigaide
 zpgaide
 devgaide
 bendizaimaster
-bendieditor
+githubeditor
